@@ -1,0 +1,36 @@
+﻿<Window x:Class="KOR_Updater_Demo_Main_WPF_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Main App MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <TabControl>
+        <TabItem Header="Custom UI">
+            <Grid>
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock x:Name="CurrentVersion" Text="Current Version: ????" Margin="5"/>
+                    <TextBlock x:Name="NewVersion" Text="New Version: ????" Margin="5"/>
+                    <Button Height="30" Width="150" Content="Check Updates" Click="Button_Click" Margin="5"/>
+                    <Button x:Name="GetUpdates" Height="30" Width="150" Content="Get Updates" Click="GetUpdates_Click" Margin="5" Visibility="Collapsed"/>
+                </StackPanel>
+            </Grid>
+        </TabItem>
+        <TabItem Header="Last Updates">
+            <ListView x:Name="LastUpdatesList" HorizontalAlignment="Stretch">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="UpdateId" DisplayMemberBinding="{Binding UpdateId}" Width="Auto"/>
+                        <GridViewColumn Header="Date" DisplayMemberBinding="{Binding AddedDate}" Width="Auto"/>
+                        <GridViewColumn Header="Version" DisplayMemberBinding="{Binding AppVersion}" Width="Auto"/>
+                        <GridViewColumn Header="Added Features" DisplayMemberBinding="{Binding AddedFeatures}" Width="Auto"/>
+                        <GridViewColumn Header="Removed Features" DisplayMemberBinding="{Binding RemovedFeatures}" Width="Auto"/>
+                        <GridViewColumn Header="Reason Code" DisplayMemberBinding="{Binding ReasonCode}" Width="Auto"/>
+                        <GridViewColumn Header="Reason Title" DisplayMemberBinding="{Binding ReasonTitle}" Width="Auto"/>
+                    </GridView>
+                </ListView.View>
+
+            </ListView>
+        </TabItem>
+    </TabControl>
+</Window>

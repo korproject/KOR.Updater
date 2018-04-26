@@ -1,0 +1,57 @@
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\KOR.Updater.dll.config
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\KOR.Updater.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\KOR.Updater.pdb
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\EntityFramework.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\RestSharp.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.Data.SQLite.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.ValueTuple.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\Toqe.Downloader.Business.Contract.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\Toqe.Downloader.Business.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\Toqe.Downloader.Business.Contract.pdb
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\Toqe.Downloader.Business.pdb
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\EntityFramework.xml
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.Data.SQLite.xml
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\bin\Debug\System.ValueTuple.xml
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\obj\Debug\KOR.Updater.csprojResolveAssemblyReference.cache
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\obj\Debug\KOR.Updater.csproj.CoreCompileInputs.cache
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\obj\Debug\KOR.Updater.dll
+C:\Users\e9396\Desktop\repo\KOR.Updater\KOR.Updater\obj\Debug\KOR.Updater.pdb
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\obj\Debug\KOR.Updater.csprojResolveAssemblyReference.cache
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\obj\Debug\KOR.Updater.csproj.CoreCompileInputs.cache
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\KOR.Updater.dll.config
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\KOR.Updater.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\KOR.Updater.pdb
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\EntityFramework.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\RestSharp.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.Data.SQLite.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.ValueTuple.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\Toqe.Downloader.Business.Contract.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\Toqe.Downloader.Business.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\Toqe.Downloader.Business.Contract.pdb
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\Toqe.Downloader.Business.pdb
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\EntityFramework.xml
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.Data.SQLite.xml
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\bin\Debug\System.ValueTuple.xml
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\obj\Debug\KOR.Updater.csproj.CopyComplete
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\obj\Debug\KOR.Updater.dll
+C:\Users\e9396\Desktop\Projects\repos\KOR.Updater\Net Examples\KOR.Updater\obj\Debug\KOR.Updater.pdb
